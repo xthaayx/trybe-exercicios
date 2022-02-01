@@ -1,0 +1,33 @@
+body {
+         font-size: 16px;
+     }
+     h1 {
+         font-size: 65px;
+         color: orange;
+         font-family: sans-serif;
+         font-style: italic;
+         text-align: center;
+     }
+     #lista {
+         background-color: darkorchid;
+     }
+     .list-color {
+         background-color: hotpink;
+     }
+     p {
+        font-size: 3em;
+        font-weight: 600;
+        text-decoration: underline;
+     }
+     ul {
+         line-height: 30px;
+     }
+     #amarelo {
+         background-color: yellow;
+     }
+     #vermelho {
+         background-color: red;
+     }
+     #marrom {
+         background-color: brown;
+     }

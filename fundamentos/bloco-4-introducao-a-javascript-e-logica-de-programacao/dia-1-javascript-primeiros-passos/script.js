@@ -1,8 +1,8 @@
 
 
-const a = 5;
-const b = 10;
-const c = 15;
+// const a = 5;
+// const b = 10;
+// const c = 15;
 
 //1 
 
@@ -23,12 +23,28 @@ const c = 15;
 
 //3
 
-if (a > b && a > c){
-    console.log('a: ' + a + ' é o maior numero.');
+// if (a > b && a > c){
+//     console.log('a: ' + a + ' é o maior numero.');
+// }
+// else if (b > a && b > c){
+//     console.log('b: ' + b + ' é o maior numero.');
+// }
+// else{
+//     console.log('c: ' + c + ' é o maior numero.');
+// }
+
+//4
+
+const number = -5;
+
+if (number > 0){
+    console.log('Positive');
 }
-else if (b > a && b > c){
-    console.log('b: ' + b + ' é o maior numero.');
+else if(number < 0){
+    console.log('Negative');
 }
 else{
-    console.log('c: ' + c + ' é o maior numero.');
+    console.log('Zero');
 }
+
+

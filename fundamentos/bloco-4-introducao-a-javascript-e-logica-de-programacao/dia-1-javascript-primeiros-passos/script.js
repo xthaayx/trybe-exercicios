@@ -35,16 +35,32 @@
 
 //4
 
-const number = -5;
+// const number = -5;
 
-if (number > 0){
-    console.log('Positive');
+// if (number > 0){
+//     console.log('Positive');
+// }
+// else if(number < 0){
+//     console.log('Negative');
+// }
+// else{
+//     console.log('Zero');
+// }
+
+//5
+
+const angleA = 25;
+const angleB = 60;
+const angleC = 90;
+
+if (angleA + angleB + angleC === 180){
+    console.log('true');
 }
-else if(number < 0){
-    console.log('Negative');
+else if (angleA <= 0 || angleB <= 0 || angleC <= 0){
+    console.log('erro');
 }
 else{
-    console.log('Zero');
+    console.log('false');
 }
 
 

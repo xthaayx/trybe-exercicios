@@ -49,18 +49,18 @@
 
 //5
 
-const angleA = 25;
-const angleB = 60;
-const angleC = 90;
+// const angleA = 25;
+// const angleB = 60;
+// const angleC = 90;
 
-if (angleA + angleB + angleC === 180){
-    console.log('true');
-}
-else if (angleA <= 0 || angleB <= 0 || angleC <= 0){
-    console.log('erro');
-}
-else{
-    console.log('false');
-}
+// if (angleA + angleB + angleC === 180){
+//     console.log('true');
+// }
+// else if (angleA <= 0 || angleB <= 0 || angleC <= 0){
+//     console.log('erro');
+// }
+// else{
+//     console.log('false');
+// }
 
 

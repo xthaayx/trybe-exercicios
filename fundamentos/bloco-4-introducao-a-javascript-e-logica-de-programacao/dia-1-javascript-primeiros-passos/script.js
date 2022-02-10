@@ -64,3 +64,37 @@
 // }
 
 
+//6
+
+const chess= "maça";
+
+switch (chess.toLowerCase()){
+    case "peão":
+        console.log('Peão: para frente uma casa por vez');
+        break;
+
+    case "bispo":
+        console.log('Bispo: quantas casa quiser na diagonal');
+        break;
+    
+    case "torre":
+        console.log('Torre: em linha reta horizontal e vertical');
+        break;
+    
+    case "cavalo":
+        console.log('Cavalo: duas casa horizontais ou verticais e mais uma casa formando um L');
+        break;
+
+    case "rainha":
+        console.log('Rainha: Qualquer numero de casa em qualquer direção');
+        break;
+
+    case "rei":
+        console.log('Rei: uma unica casa em qualquer direção');
+        break;
+
+    default:
+        console.log('Erro!');
+        break;
+            
+}

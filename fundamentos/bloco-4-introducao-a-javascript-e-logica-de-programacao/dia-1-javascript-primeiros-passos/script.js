@@ -66,7 +66,7 @@
 
 //6
 
-const chess= "maça";
+const chess= "PEÂO";
 
 switch (chess.toLowerCase()){
     case "peão":

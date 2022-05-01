@@ -1,0 +1,26 @@
+div:hover{
+    border-radius: 1%;
+    background-color: pink;
+}
+.azul {
+    color: blue;
+
+}
+.amarelo {
+    color: yellow;
+}
+.verde {
+    color: green;
+}
+.marrom {
+    color: brown;
+}
+.laranja {
+    color: orange;
+}
+.font-size {
+    font-size: 50px;
+}
+.impar {
+    font-style: italic;
+}

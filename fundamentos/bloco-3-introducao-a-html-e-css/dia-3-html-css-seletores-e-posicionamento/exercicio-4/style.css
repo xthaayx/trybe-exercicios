@@ -1,0 +1,37 @@
+body {
+    background-color: antiquewhite;
+}
+ol{
+    background-color: yellow;
+}
+
+.verde {
+    color: green;
+}
+.maiusculo {
+    text-transform: uppercase;
+}
+div {
+    color: red;
+}
+#aumento {
+    font-size: 40px;
+    border-style: solid 1px;
+    background-color: black;
+}
+li {
+    font-size: 20px;
+}
+li em {
+    font-weight: bold;
+}
+.fonte {
+    color: blue;
+}
+.background {
+    background-color: pink;
+}
+ul li a:hover {
+    font-weight: bold;
+    color: antiquewhite;
+}
